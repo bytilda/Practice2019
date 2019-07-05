@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/inp"/>
+    <qresource prefix="/res">
+        <file>Map.txt</file>
+    </qresource>
+</RCC>
